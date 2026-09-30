@@ -1,0 +1,13 @@
+﻿20:57:53 escena: OK escena construida
+20:57:57 captura: OK 6 capturas
+20:58:53 escena: OK escena construida
+20:59:02 captura: OK 6 capturas
+21:01:18 apk: OK APK 117,7 MB
+21:04:38 apk: OK APK 119,7 MB
+21:46:00 escena: OK escena construida
+21:46:07 jugar: OK entrando en Play
+21:46:23 prueba_espejo: OK enviando datos de prueba a 127.0.0.1:47777
+21:46:36 pantalla: OK Ordenes\Capturas\juego_214636.png
+21:47:00 detener: OK Play detenido
+21:48:22 pc: OK PC 90,3 MB
+21:52:19 apk: OK APK 146,3 MB

@@ -1,0 +1,3 @@
+﻿RESUMEN DE LA PRUEBA - 2026-09-29 22:35:54
+Duración de la sesión (s): 0,0
+Latencia: sin datos (¿control conectado?)

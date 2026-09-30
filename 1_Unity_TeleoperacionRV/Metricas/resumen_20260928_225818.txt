@@ -1,0 +1,4 @@
+﻿RESUMEN DE LA PRUEBA - 2026-09-28 22:58:55
+Duración de la sesión (s): 0,0
+Latencia: sin datos (¿control conectado?)
+Colisiones con objetos: 0   con paredes/obstáculos: 0

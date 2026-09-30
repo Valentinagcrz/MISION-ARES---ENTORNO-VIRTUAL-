@@ -1,0 +1,7 @@
+# Cache de Unity (se regenera sola al abrir el proyecto)
+1_Unity_TeleoperacionRV/Library/
+1_Unity_TeleoperacionRV/Temp/
+1_Unity_TeleoperacionRV/Logs/
+1_Unity_TeleoperacionRV/obj/
+# Archivos temporales de transferencia
+.transferencia/

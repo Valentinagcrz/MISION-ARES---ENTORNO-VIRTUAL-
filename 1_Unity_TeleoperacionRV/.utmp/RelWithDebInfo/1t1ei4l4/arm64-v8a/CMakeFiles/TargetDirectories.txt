@@ -1,0 +1,8 @@
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/ULTIMITO SEMESTRE/REALIDAD/Proyecto/1_Unity_TeleoperacionRV/.utmp/RelWithDebInfo/1t1ei4l4/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

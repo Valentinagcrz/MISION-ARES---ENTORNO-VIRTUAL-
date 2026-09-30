@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cielo_Marte
+  m_Shader: {fileID: 4800000, guid: d52b181a151e8e04c8b3576df314e0f3, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Halo: 0.6
+    - _TamSol: 0.0012
+    m_Colors:
+    - _ColorCenit: {r: 0.5, g: 0.29999998, b: 0.19999996, a: 1}
+    - _ColorHorizonte: {r: 0.86, g: 0.6, b: 0.41999996, a: 1}
+    - _ColorSol: {r: 1, g: 0.95, b: 0.85, a: 1}
+    - _ColorSuelo: {r: 0.45, g: 0.26999995, b: 0.16999996, a: 1}
+    - _DirSol: {r: 0.45198447, g: 0.6156615, b: -0.6455006, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

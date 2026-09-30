@@ -1,0 +1,6 @@
+﻿t_s,evento,detalle,valor
+1.149,inicio_tarea,,0.000
+27.943,vibracion,Agarre,255.000
+27.943,agarre,Roca_Hematita,0.000
+32.760,vibracion,Pared,233.000
+32.760,colision_obstaculo,Roca_Obstaculo_5,1.268

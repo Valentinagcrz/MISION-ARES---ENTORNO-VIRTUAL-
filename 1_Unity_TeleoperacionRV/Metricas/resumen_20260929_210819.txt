@@ -1,0 +1,10 @@
+﻿RESUMEN DE LA PRUEBA - 2026-09-29 21:08:44
+Duración de la sesión (s): 0,0
+Pings medidos: 40
+Latencia ida y vuelta (RTT) media (ms): 3,0
+RTT mediana (ms): 2,7
+RTT percentil 95 (ms): 4,6
+RTT mínima / máxima (ms): 2,3 / 4,8
+Latencia de un sentido estimada (RTT/2) (ms): 1,5
+Periodo medio entre tramas (ms): 20,00  (ideal 20 ms = 50 Hz)
+Jitter (desviación del periodo) (ms): 1,86
